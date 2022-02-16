@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: c6d62378-b9bd-e1bc-d338-24113ea12ec4
 ---
@@ -207,7 +209,7 @@ Energy and Climate Change
 9
 {{< tdclose >}}
 {{< tdopen >}}
-Internalizing Environmental Externalities with a Focus on CO2 Emissions Cap and Trade Mechanisms
+Internalizing Environmental Externalities with a Focus on CO{{< sub "2" >}} Emissions Cap and Trade Mechanisms
 {{< tdclose >}}
 
 {{< trclose >}}

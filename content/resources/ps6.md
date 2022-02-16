@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Homework assignment.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/14-44-energy-economics-spring-2007/92bf5804b449bff414703a6af711225b_ps6.pdf
+file: /media/courses/14-44-energy-economics-spring-2007/92bf5804b449bff414703a6af711225b_ps6.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: ps6.pdf
 uid: 92bf5804-b449-bff4-1470-3a6af711225b
