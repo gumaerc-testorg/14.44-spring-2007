@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 60ea6857-b58d-ccdf-3f89-a6ad28fa5559
 resourcetype: Document
 title: econometrics.pdf
 uid: 199ae1e6-bc77-d0ed-5efc-0cd2d83cc532
