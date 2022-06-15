@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section features the course's problem sets and their solutions.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -26,43 +27,43 @@ SOLUTIONS
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Problem Set 2 ([PDF]({{< baseurl >}}/resources/ps2))
+Problem Set 2 ({{% resource_link 6bee9991-a97e-776b-e620-5bacedf38c74 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/sol_ps2))
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-Problem Set 3 ([PDF]({{< baseurl >}}/resources/ps3))
-{{< tdclose >}}
-{{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/sol_ps3))
+({{% resource_link d7f82898-bccb-a954-6cc3-5ba2f4e3b355 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Problem Set 4 ([PDF]({{< baseurl >}}/resources/ps4))
+Problem Set 3 ({{% resource_link 3da14fd1-2d8d-0f17-df20-0908921f5103 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/sol_ps4))
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-Problem Set 5 ([PDF]({{< baseurl >}}/resources/ps5))
-{{< tdclose >}}
-{{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/sol_ps5))
+({{% resource_link f8523a6d-045c-3869-8665-a17d62b8bcf3 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Problem Set 6 ([PDF]({{< baseurl >}}/resources/ps6))
+Problem Set 4 ({{% resource_link 70067795-fb59-ff56-6e6b-f4b833e7a7b3 "PDF" %}})
+{{< tdclose >}}
+{{< tdopen >}}
+({{% resource_link 7781ba17-bfb1-b372-b913-615c661e5921 "PDF" %}})
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem Set 5 ({{% resource_link e09cc3a1-ff00-bb3e-5d17-5979dfe3df0f "PDF" %}})
+{{< tdclose >}}
+{{< tdopen >}}
+({{% resource_link 03b0c080-c462-64bf-56dc-3b5516a2fda1 "PDF" %}})
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem Set 6 ({{% resource_link 92bf5804-b449-bff4-1470-3a6af711225b "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -71,7 +72,7 @@ Problem Set 6 ([PDF]({{< baseurl >}}/resources/ps6))
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Problem Set 7 ([PDF]({{< baseurl >}}/resources/ps7))
+Problem Set 7 ({{% resource_link e061e4d8-d404-f7b5-8768-fc579b50bbae "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
