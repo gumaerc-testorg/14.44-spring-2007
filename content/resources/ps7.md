@@ -5,6 +5,7 @@ file: /courses/14-44-energy-economics-spring-2007/e061e4d8d404f7b58768fc579b50bb
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: ps7.pdf
 uid: e061e4d8-d404-f7b5-8768-fc579b50bbae
 ---
 Homework assignment.
-

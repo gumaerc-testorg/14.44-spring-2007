@@ -5,6 +5,7 @@ file: /courses/14-44-energy-economics-spring-2007/f8523a6d045c38698665a17d62b8bc
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: sol_ps3.pdf
 uid: f8523a6d-045c-3869-8665-a17d62b8bcf3
 ---
 Solutions to assigned homework problems.
-
