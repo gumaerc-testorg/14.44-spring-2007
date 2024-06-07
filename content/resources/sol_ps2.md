@@ -2,6 +2,7 @@
 content_type: resource
 description: Solutions to assigned homework problems.
 file: /courses/14-44-energy-economics-spring-2007/d7f82898bccba9546cc35ba2f4e3b355_sol_ps2.pdf
+file_size: 108720
 file_type: application/pdf
 learning_resource_types:
 - Assignments
