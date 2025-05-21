@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains a set of 4 problems to help students review knowledge
   of multivariate regression analysis.
-file: /ol-ocw-studio-app/courses/14-44-energy-economics-spring-2007/6bee9991a97e776be6205bacedf38c74_ps2.pdf
+file: /courses/14-44-energy-economics-spring-2007/6bee9991a97e776be6205bacedf38c74_ps2.pdf
 file_size: 67160
 file_type: application/pdf
 learning_resource_types:
