@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains a set of 7 problems to test students understanding
   of course.
-file: /ol-ocw-studio-app/courses/14-44-energy-economics-spring-2007/3da14fd12d8d0f17df200908921f5103_ps3.pdf
+file: /courses/14-44-energy-economics-spring-2007/3da14fd12d8d0f17df200908921f5103_ps3.pdf
 file_size: 18191
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Homework assignment.
-file: /ol-ocw-studio-app/courses/14-44-energy-economics-spring-2007/e061e4d8d404f7b58768fc579b50bbae_ps7.pdf
+file: /courses/14-44-energy-economics-spring-2007/e061e4d8d404f7b58768fc579b50bbae_ps7.pdf
 file_size: 21052
 file_type: application/pdf
 learning_resource_types:
