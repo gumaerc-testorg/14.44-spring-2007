@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Solutions to assigned homework problems.
-file: /ol-ocw-studio-app/courses/14-44-energy-economics-spring-2007/7781ba17bfb1b372b913615c661e5921_sol_ps4.pdf
+file: /courses/14-44-energy-economics-spring-2007/7781ba17bfb1b372b913615c661e5921_sol_ps4.pdf
 file_size: 152945
 file_type: application/pdf
 learning_resource_types:
