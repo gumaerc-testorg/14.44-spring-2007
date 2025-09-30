@@ -16,7 +16,7 @@ Recitations: 1 session / week, 1.5 hours / session
 
 ## Prerequisite
 
-[_14.01 Principles of Microeconomics_](https://ocw.mit.edu/courses/economics/14-01-principles-of-microeconomics-fall-2018/) or an equivalent intermediate microeconomics course taken elsewhere.
+{{% resource_link "5a0d8a31-2fae-4102-9d9e-4e684db78fa1" "_14.01 Principles of Microeconomics_" %}} or an equivalent intermediate microeconomics course taken elsewhere.
 
 ## Requirements
 
